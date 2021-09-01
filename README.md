@@ -12,3 +12,11 @@ demonstrate merge and rebase issues.
 ## interactive
 
 `git rebase --interactive`
+
+
+# bad change
+this is a bad line
+
+
+# bad change2
+this is a bad line 2
