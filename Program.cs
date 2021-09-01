@@ -8,7 +8,7 @@ namespace color_test
             
         static void Main(string[] args)
         {
-            Console.BackgroundColor = ConsoleColor.Gree;
+            Console.BackgroundColor = ConsoleColor.Green;
             Console.ForegroundColor = ConsoleColor.Gray;
             Console.WriteLine("Hello World! {0}", "Hello other planets too!");
         }
